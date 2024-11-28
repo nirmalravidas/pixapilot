@@ -1,5 +1,7 @@
 # 🖼️ Pixapilot - AI-Powered Image Generation SaaS 🚀
 
+![Pixapilot Screenshot](public/screenshot.png "Banner")
+
 Welcome to **Pixapilot**, an advanced, AI-powered image generation SaaS platform. This application leverages OpenAI's cutting-edge models to allow users to generate stunning images effortlessly. Whether you’re looking to integrate AI into your business or launch your SaaS platform, this project provides a complete solution, including backend, frontend, and seamless payment integration.
 
 ---
