@@ -38,10 +38,3 @@ Welcome to **Pixapilot**, an advanced, AI-powered image generation SaaS platform
 3. OpenAI API Key
 4. Clerk Account for Authentication
 5. Razorpay Account for Payment Integration
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/imagegenpro.git
-   cd imagegenpro
