@@ -1,27 +1,47 @@
-# Image Generator SaaS
+# 🖼️ Pixapilot - AI-Powered Image Generation SaaS 🚀
 
-Welcome to **Image Generator SaaS** – an AI-powered platform that allows users to generate stunning, high-quality images based on customizable prompts. Built to serve designers, marketers, content creators, and more, this platform brings your creative ideas to life with the help of advanced artificial intelligence.
+Welcome to **Pixapilot**, an advanced, AI-powered image generation SaaS platform. This application leverages OpenAI's cutting-edge models to allow users to generate stunning images effortlessly. Whether you’re looking to integrate AI into your business or launch your SaaS platform, this project provides a complete solution, including backend, frontend, and seamless payment integration.
 
--**Developed by** [Nirmal Ravidas](https://github.com/nirmalravidas)
+---
 
-## Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Contact](#contact)
+## 🌟 Features
 
-## Features
-- **AI-Powered Image Generation**: Create visually striking images from simple prompts.
-- **Customizable Styles**: Tailor images to fit branding requirements with a range of customizable style options.
-- **Fast and Scalable**: Experience quick generation times with infrastructure designed for scalability.
-- **Secure and Private**: Data protection is a priority, ensuring your content and activity remain private.
-- **Versatile Applications**: Generate images for social media, marketing, website content, and more.
+- **AI-Powered Image Generation**: Generate high-quality, AI-generated images with ease using the OpenAI API.
+- **Authentication System**: Secure user authentication powered by Clerk.
+- **Subscription Management**: Integrated Razorpay payment gateway for managing user subscriptions.
+- **User-Friendly Interface**: Built with **Next.js** and **Shadcn UI** for a modern and responsive UI.
+- **Database Integration**: Postgresql for storing user data and subscription details.
+- **API-Driven Architecture**: Clean and modular API structure for scalability.
+- **Mobile Responsive**: Optimized for both desktop and mobile users.
+- **Customizable Source Code**: Easy-to-extend codebase for additional features.
 
-## Tech Stack
-- **Frontend**: Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Postgresql
+---
+
+## 📂 Tech Stack
+
+- **Frontend**: Next.js, TypeScript, Shadcn UI
+- **Backend**: Node.js, Next.js API Routes
+- **Database**: Postgresql
 - **Authentication**: Clerk
-- **Payment**: Razorpay for handling subscriptions
-- **API**: OpenAI for image generation
+- **AI Model**: OpenAI API
+- **Payment Gateway**: Razorpay
+- **Icons**: Lucide React
 
-## Contact
--**LinkedIn**: [Nirmal Ravidas](https://www.linkedin.com/in/nirmalravidas/)
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+1. Node.js (v18+)
+2. Postgres Database
+3. OpenAI API Key
+4. Clerk Account for Authentication
+5. Razorpay Account for Payment Integration
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/imagegenpro.git
+   cd imagegenpro
